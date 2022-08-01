@@ -1,0 +1,25 @@
+body {
+    background-color: chartreuse;
+}
+
+#pontuação {
+    font-size:35px;
+    margin-left: 20px;
+}
+
+#tempo {
+    font-size:35px;
+    float: right;
+    margin-right: 80px;
+}
+
+p,span {
+    padding-top: 10px;
+    font-style: bold;
+    font-size: 25px;
+}
+
+h1 {
+  background-color: #fff;
+  color: blue;
+}
